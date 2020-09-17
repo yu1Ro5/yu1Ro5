@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ![Alternate text](https://raw.githubusercontent.com/yu340102/yu340102/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
 ![Alternate text](https://raw.githubusercontent.com/yu340102/yu340102/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
 ![Alternate text](https://raw.githubusercontent.com/yu340102/yu340102/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
-![Alternate text](https://raw.githubusercontent.com/yu340102/yu340102/master/profile-summary-card-output/nord_bright/3-stats.svg)
 
 ![Alternate text](https://komarev.com/ghpvc/?username=yu340102&color=green)
